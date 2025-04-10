@@ -29,8 +29,11 @@ export default async function Admin() {
                             <p className="text-muted">Manage your recipe collection</p>
                         </div>
                         <div>
-                            <Link href="/collection" className="btn btn-primary">
+                            <Link href="/collection" className="btn btn-primary me-2">
                                 View Collection
+                            </Link>
+                            <Link href="/admin/create" className="btn btn-success">
+                                Create New
                             </Link>
                         </div>
                     </div>
@@ -111,11 +114,6 @@ export default async function Admin() {
                             <div className="d-flex justify-content-between align-items-center">
                                 <div className="text-muted small">
                                     Showing {recipes.length} recipes
-                                </div>
-                                <div>
-                                    <Link href="/admin/add" className="btn btn-success btn-sm">
-                                        Add New Recipe
-                                    </Link>
                                 </div>
                             </div>
                         </div>
