@@ -7,7 +7,7 @@
             "instructions": "Boil spaghetti. Cook beef with onion and garlic. Add tomato sauce. Simmer. Combine with spaghetti.",
             "cook_time": 30,
             "difficulty": "Easy",
-            "image_url": "public/spaghetti.jpg",
+            "image_url": "/spaghetti.jpg",
             "is_vegetarian": false,
             "category": "Main Course"
         },
@@ -18,7 +18,7 @@
             "instructions": "Chop veggies. Stir-fry in oil with garlic. Add soy sauce and cook for 5 minutes.",
             "cook_time": 15,
             "difficulty": "Easy",
-            "image_url": "public/veggie-stir-fry.jpg",
+            "image_url": "/veggie-stir-fry.jpg",
             "is_vegetarian": true,
             "category": "Main Course"
         },
@@ -29,7 +29,7 @@
             "instructions": "Mix dry ingredients. Add milk and egg. Fry on pan until golden brown.",
             "cook_time": 20,
             "difficulty": "Easy",
-            "image_url": "public/pancakes.jpg",
+            "image_url": "/pancakes.jpg",
             "is_vegetarian": true,
             "category": "Breakfast"
         },
@@ -40,7 +40,7 @@
             "instructions": "Grill chicken. Chop vegetables. Mix all with dressing.",
             "cook_time": 25,
             "difficulty": "Medium",
-            "image_url": "public/grilled-chicken-salad.jpg",
+            "image_url": "/grilled-chicken-salad.jpg",
             "is_vegetarian": false,
             "category": "Salad"
         },
@@ -51,7 +51,7 @@
             "instructions": "Mix all ingredients. Scoop onto baking sheet. Bake at 180°C for 12 minutes.",
             "cook_time": 30,
             "difficulty": "Medium",
-            "image_url": "public/cookies.jpg",
+            "image_url": "/cookies.jpg",
             "is_vegetarian": true,
             "category": "Dessert"
         },
@@ -62,7 +62,7 @@
             "instructions": "Sauté onion and garlic. Add tomatoes and broth. Simmer and blend.",
             "cook_time": 35,
             "difficulty": "Easy",
-            "image_url": "public/tomato-soup.jpg",
+            "image_url": "/tomato-soup.jpg",
             "is_vegetarian": true,
             "category": "Soup"
         },
@@ -73,7 +73,7 @@
             "instructions": "Cook beef with seasoning. Fill shells with ingredients.",
             "cook_time": 20,
             "difficulty": "Easy",
-            "image_url": "public/beef-tacos.jpg",
+            "image_url": "/beef-tacos.jpg",
             "is_vegetarian": false,
             "category": "Snack"
         },
@@ -84,7 +84,7 @@
             "instructions": "Layer ingredients in baking dish. Bake at 180°C for 40 minutes.",
             "cook_time": 50,
             "difficulty": "Hard",
-            "image_url": "public/veg-lasagna.jpg",
+            "image_url": "/veg-lasagna.jpg",
             "is_vegetarian": true,
             "category": "Main Course"
         },
@@ -95,7 +95,7 @@
             "instructions": "Layer yogurt, honey, berries, and granola in a glass.",
             "cook_time": 5,
             "difficulty": "Easy",
-            "image_url": "public/parfait.jpg",
+            "image_url": "/parfait.jpg",
             "is_vegetarian": true,
             "category": "Dessert"
         },
@@ -106,7 +106,7 @@
             "instructions": "Beat eggs. Cook in buttered pan until set.",
             "cook_time": 10,
             "difficulty": "Easy",
-            "image_url": "public/scrambled-eggs.jpg",
+            "image_url": "/scrambled-eggs.jpg",
             "is_vegetarian": true,
             "category": "Breakfast"
         },
@@ -117,7 +117,7 @@
             "instructions": "Cook onion, garlic, and ginger. Add chicken and spices. Simmer with coconut milk.",
             "cook_time": 40,
             "difficulty": "Medium",
-            "image_url": "public/chicken-curry.jpg",
+            "image_url": "/chicken-curry.jpg",
             "is_vegetarian": false,
             "category": "Main Course"
         },
@@ -128,7 +128,7 @@
             "instructions": "Toast bread. Mash avocado with seasoning and spread on toast.",
             "cook_time": 5,
             "difficulty": "Easy",
-            "image_url": "public/avocado-toast.jpg",
+            "image_url": "/avocado-toast.jpg",
             "is_vegetarian": true,
             "category": "Snack"
         },
@@ -139,7 +139,7 @@
             "instructions": "Scramble eggs. Add rice and soy sauce. Stir fry until combined.",
             "cook_time": 15,
             "difficulty": "Easy",
-            "image_url": "public/egg-fried-rice.jpg",
+            "image_url": "/egg-fried-rice.jpg",
             "is_vegetarian": true,
             "category": "Main Course"
         },
@@ -150,7 +150,7 @@
             "instructions": "Toss lettuce with dressing and toppings.",
             "cook_time": 10,
             "difficulty": "Easy",
-            "image_url": "public/caesar-salad.jpg",
+            "image_url": "/caesar-salad.jpg",
             "is_vegetarian": false,
             "category": "Salad"
         },
@@ -161,7 +161,7 @@
             "instructions": "Blend all ingredients until smooth.",
             "cook_time": 5,
             "difficulty": "Easy",
-            "image_url": "public/mango-smoothie.jpg",
+            "image_url": "/mango-smoothie.jpg",
             "is_vegetarian": true,
             "category": "Dessert"
         },
@@ -172,7 +172,7 @@
             "instructions": "Cook chicken in spiced tomato butter sauce. Add cream and simmer.",
             "cook_time": 45,
             "difficulty": "Hard",
-            "image_url": "public/butter-chicken.jpg",
+            "image_url": "/butter-chicken.jpg",
             "is_vegetarian": false,
             "category": "Main Course"
         },
@@ -183,7 +183,7 @@
             "instructions": "Chop fruits and mix with honey and mint.",
             "cook_time": 10,
             "difficulty": "Easy",
-            "image_url": "public/fruit-salad.jpg",
+            "image_url": "/fruit-salad.jpg",
             "is_vegetarian": true,
             "category": "Snack"
         },
@@ -194,7 +194,7 @@
             "instructions": "Stuff peppers with mixture and bake for 25 minutes.",
             "cook_time": 35,
             "difficulty": "Medium",
-            "image_url": "public/stuffed-peppers.jpg",
+            "image_url": "/stuffed-peppers.jpg",
             "is_vegetarian": true,
             "category": "Main Course"
         },
@@ -205,7 +205,7 @@
             "instructions": "Dip bread in egg mixture. Cook on skillet until golden.",
             "cook_time": 15,
             "difficulty": "Easy",
-            "image_url": "public/french-toast.jpg",
+            "image_url": "/french-toast.jpg",
             "is_vegetarian": true,
             "category": "Breakfast"
         },
@@ -216,7 +216,7 @@
             "instructions": "Cook macaroni. Prepare cheese sauce. Combine and bake.",
             "cook_time": 30,
             "difficulty": "Medium",
-            "image_url": "public/mac-cheese.jpg",
+            "image_url": "/mac-cheese.jpg",
             "is_vegetarian": true,
             "category": "Main Course"
         }
