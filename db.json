@@ -1,0 +1,225 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Spaghetti Bolognese",
+            "ingredients": "Spaghetti, ground beef, onion, garlic, tomato sauce, olive oil, salt, pepper",
+            "instructions": "Boil spaghetti. Cook beef with onion and garlic. Add tomato sauce. Simmer. Combine with spaghetti.",
+            "cook_time": 30,
+            "difficulty": "Easy",
+            "image_url": "public/spaghetti.jpg",
+            "is_vegetarian": false,
+            "category": "Main Course"
+        },
+        {
+            "id": 2,
+            "name": "Vegetable Stir Fry",
+            "ingredients": "Broccoli, bell pepper, carrot, soy sauce, garlic, olive oil",
+            "instructions": "Chop veggies. Stir-fry in oil with garlic. Add soy sauce and cook for 5 minutes.",
+            "cook_time": 15,
+            "difficulty": "Easy",
+            "image_url": "public/veggie-stir-fry.jpg",
+            "is_vegetarian": true,
+            "category": "Main Course"
+        },
+        {
+            "id": 3,
+            "name": "Pancakes",
+            "ingredients": "Flour, milk, egg, sugar, baking powder, salt, butter",
+            "instructions": "Mix dry ingredients. Add milk and egg. Fry on pan until golden brown.",
+            "cook_time": 20,
+            "difficulty": "Easy",
+            "image_url": "public/pancakes.jpg",
+            "is_vegetarian": true,
+            "category": "Breakfast"
+        },
+        {
+            "id": 4,
+            "name": "Grilled Chicken Salad",
+            "ingredients": "Chicken breast, lettuce, cherry tomatoes, cucumber, olive oil, lemon juice",
+            "instructions": "Grill chicken. Chop vegetables. Mix all with dressing.",
+            "cook_time": 25,
+            "difficulty": "Medium",
+            "image_url": "public/grilled-chicken-salad.jpg",
+            "is_vegetarian": false,
+            "category": "Salad"
+        },
+        {
+            "id": 5,
+            "name": "Chocolate Chip Cookies",
+            "ingredients": "Flour, butter, sugar, eggs, vanilla, chocolate chips, baking soda",
+            "instructions": "Mix all ingredients. Scoop onto baking sheet. Bake at 180°C for 12 minutes.",
+            "cook_time": 30,
+            "difficulty": "Medium",
+            "image_url": "public/cookies.jpg",
+            "is_vegetarian": true,
+            "category": "Dessert"
+        },
+        {
+            "id": 6,
+            "name": "Tomato Basil Soup",
+            "ingredients": "Tomatoes, basil, onion, garlic, olive oil, vegetable broth, salt, pepper",
+            "instructions": "Sauté onion and garlic. Add tomatoes and broth. Simmer and blend.",
+            "cook_time": 35,
+            "difficulty": "Easy",
+            "image_url": "public/tomato-soup.jpg",
+            "is_vegetarian": true,
+            "category": "Soup"
+        },
+        {
+            "id": 7,
+            "name": "Beef Tacos",
+            "ingredients": "Taco shells, ground beef, lettuce, tomato, cheese, taco seasoning",
+            "instructions": "Cook beef with seasoning. Fill shells with ingredients.",
+            "cook_time": 20,
+            "difficulty": "Easy",
+            "image_url": "public/beef-tacos.jpg",
+            "is_vegetarian": false,
+            "category": "Snack"
+        },
+        {
+            "id": 8,
+            "name": "Vegetarian Lasagna",
+            "ingredients": "Lasagna noodles, ricotta, spinach, marinara sauce, mozzarella cheese",
+            "instructions": "Layer ingredients in baking dish. Bake at 180°C for 40 minutes.",
+            "cook_time": 50,
+            "difficulty": "Hard",
+            "image_url": "public/veg-lasagna.jpg",
+            "is_vegetarian": true,
+            "category": "Main Course"
+        },
+        {
+            "id": 9,
+            "name": "Greek Yogurt Parfait",
+            "ingredients": "Greek yogurt, honey, granola, mixed berries",
+            "instructions": "Layer yogurt, honey, berries, and granola in a glass.",
+            "cook_time": 5,
+            "difficulty": "Easy",
+            "image_url": "public/parfait.jpg",
+            "is_vegetarian": true,
+            "category": "Dessert"
+        },
+        {
+            "id": 10,
+            "name": "Scrambled Eggs",
+            "ingredients": "Eggs, butter, salt, pepper",
+            "instructions": "Beat eggs. Cook in buttered pan until set.",
+            "cook_time": 10,
+            "difficulty": "Easy",
+            "image_url": "public/scrambled-eggs.jpg",
+            "is_vegetarian": true,
+            "category": "Breakfast"
+        },
+        {
+            "id": 11,
+            "name": "Chicken Curry",
+            "ingredients": "Chicken, onion, tomato, garlic, ginger, curry powder, coconut milk",
+            "instructions": "Cook onion, garlic, and ginger. Add chicken and spices. Simmer with coconut milk.",
+            "cook_time": 40,
+            "difficulty": "Medium",
+            "image_url": "public/chicken-curry.jpg",
+            "is_vegetarian": false,
+            "category": "Main Course"
+        },
+        {
+            "id": 12,
+            "name": "Avocado Toast",
+            "ingredients": "Bread, avocado, salt, pepper, lemon juice, chili flakes",
+            "instructions": "Toast bread. Mash avocado with seasoning and spread on toast.",
+            "cook_time": 5,
+            "difficulty": "Easy",
+            "image_url": "public/avocado-toast.jpg",
+            "is_vegetarian": true,
+            "category": "Snack"
+        },
+        {
+            "id": 13,
+            "name": "Egg Fried Rice",
+            "ingredients": "Rice, eggs, soy sauce, green onion, oil",
+            "instructions": "Scramble eggs. Add rice and soy sauce. Stir fry until combined.",
+            "cook_time": 15,
+            "difficulty": "Easy",
+            "image_url": "public/egg-fried-rice.jpg",
+            "is_vegetarian": true,
+            "category": "Main Course"
+        },
+        {
+            "id": 14,
+            "name": "Caesar Salad",
+            "ingredients": "Romaine lettuce, croutons, Caesar dressing, parmesan cheese",
+            "instructions": "Toss lettuce with dressing and toppings.",
+            "cook_time": 10,
+            "difficulty": "Easy",
+            "image_url": "public/caesar-salad.jpg",
+            "is_vegetarian": false,
+            "category": "Salad"
+        },
+        {
+            "id": 15,
+            "name": "Mango Smoothie",
+            "ingredients": "Mango, yogurt, honey, milk",
+            "instructions": "Blend all ingredients until smooth.",
+            "cook_time": 5,
+            "difficulty": "Easy",
+            "image_url": "public/mango-smoothie.jpg",
+            "is_vegetarian": true,
+            "category": "Dessert"
+        },
+        {
+            "id": 16,
+            "name": "Butter Chicken",
+            "ingredients": "Chicken, butter, tomato, cream, spices",
+            "instructions": "Cook chicken in spiced tomato butter sauce. Add cream and simmer.",
+            "cook_time": 45,
+            "difficulty": "Hard",
+            "image_url": "public/butter-chicken.jpg",
+            "is_vegetarian": false,
+            "category": "Main Course"
+        },
+        {
+            "id": 17,
+            "name": "Fruit Salad",
+            "ingredients": "Apple, banana, grapes, orange, honey, mint",
+            "instructions": "Chop fruits and mix with honey and mint.",
+            "cook_time": 10,
+            "difficulty": "Easy",
+            "image_url": "public/fruit-salad.jpg",
+            "is_vegetarian": true,
+            "category": "Snack"
+        },
+        {
+            "id": 18,
+            "name": "Stuffed Bell Peppers",
+            "ingredients": "Bell peppers, rice, tomato, onion, cheese",
+            "instructions": "Stuff peppers with mixture and bake for 25 minutes.",
+            "cook_time": 35,
+            "difficulty": "Medium",
+            "image_url": "public/stuffed-peppers.jpg",
+            "is_vegetarian": true,
+            "category": "Main Course"
+        },
+        {
+            "id": 19,
+            "name": "French Toast",
+            "ingredients": "Bread, eggs, milk, cinnamon, sugar, butter",
+            "instructions": "Dip bread in egg mixture. Cook on skillet until golden.",
+            "cook_time": 15,
+            "difficulty": "Easy",
+            "image_url": "public/french-toast.jpg",
+            "is_vegetarian": true,
+            "category": "Breakfast"
+        },
+        {
+            "id": 20,
+            "name": "Mac and Cheese",
+            "ingredients": "Macaroni, cheddar cheese, butter, milk, flour",
+            "instructions": "Cook macaroni. Prepare cheese sauce. Combine and bake.",
+            "cook_time": 30,
+            "difficulty": "Medium",
+            "image_url": "public/mac-cheese.jpg",
+            "is_vegetarian": true,
+            "category": "Main Course"
+        }
+    ]
+  }
+  
