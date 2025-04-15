@@ -1,0 +1,11 @@
+# Simple Cook - Recipe Management Application
+## Setup and Running Instructions
+1. Clone the source code from: https://github.com/ThaoDoann/simple-cook
+2. Run the following commands:  
+    npm install
+    npm run serve-json
+    npm run dev
+
+3. Access the application:
+   - Frontend: http://localhost:3000
+   - API: http://localhost:4000
