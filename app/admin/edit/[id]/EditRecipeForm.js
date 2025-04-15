@@ -72,11 +72,11 @@ export default function EditRecipeForm({ recipe }) {
                     <div className="row g-4">
                         <div className="col-md-6">
                             <div className="form-floating mb-3">
-                                <input type="number" className="form-control" id="id" name="id" placeholder="Recipe ID"
-                                    defaultValue={recipe.id} min="1" required />
+                                <input type="number" className="form-control bg-light" id="id" name="id" placeholder="Recipe ID"
+                                    defaultValue={recipe.id} min="1" required readOnly />
                                 <label htmlFor="id">Recipe ID</label>
                                 <div className="invalid-feedback">
-                                    Please provide a unique ID for the recipe.
+                                    Recipe ID cannot be changed.
                                 </div>
                             </div>
                         </div>

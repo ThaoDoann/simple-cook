@@ -74,7 +74,8 @@ export default async function Admin() {
                                                 <td className="fw-medium">{recipe.name}</td>
                                                 <td>{recipe.category}</td>
                                                 <td>
-                                                    <span className={`badge ${recipe.difficulty === 'Easy' ? 'bg-success' :
+                                                    <span className={`badge 
+                                                        ${recipe.difficulty === 'Easy' ? 'bg-success' :
                                                             recipe.difficulty === 'Medium' ? 'bg-warning text-dark' :
                                                                 'bg-danger'
                                                         }`}>
@@ -82,10 +83,8 @@ export default async function Admin() {
                                                     </span>
                                                 </td>
                                                 <td>{recipe.cook_time} min</td>
-                                                <td>
-                                                    <span className={`badge ${recipe.is_vegetarian ? 'bg-success' : 'bg-danger'}`}>
-                                                        {recipe.is_vegetarian ? 'Yes' : 'No'}
-                                                    </span>
+                                                <td className="text-center">
+                                                    {recipe.is_vegetarian ? 'Yes' : 'No'}
                                                 </td>
                                                 <td className="text-truncate" style={{ maxWidth: "150px" }}>
                                                     {recipe.ingredients}
